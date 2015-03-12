@@ -1,0 +1,19 @@
+{
+  "name": "IIPI-player",
+  "version": "1.0.0",
+  "description": "Video player utilities",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IIPI/IIPI-player.git"
+  },
+  "author": "Giulian Drimba",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IIPI/IIPI-player/issues"
+  },
+  "homepage": "https://github.com/IIPI/IIPI-player"
+}
