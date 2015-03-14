@@ -1,5 +1,5 @@
 {
-  "name": "IIPI-player",
+  "name": "2pi-player",
   "version": "1.0.0",
   "description": "Video player utilities",
   "main": "src/index.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/IIPI/IIPI-player.git"
+    "url": "https://github.com/IIPI/2pi-player.git"
   },
   "author": "Giulian Drimba",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/IIPI/IIPI-player/issues"
+    "url": "https://github.com/IIPI/2pi-player/issues"
   },
-  "homepage": "https://github.com/IIPI/IIPI-player"
+  "homepage": "https://github.com/IIPI/2pi-player"
 }
