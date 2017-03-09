@@ -1,19 +1,26 @@
 {
-  "name": "2pi-player",
+  "name": "@doublepi/video-player",
   "version": "1.0.0",
-  "description": "Video player utilities",
-  "main": "src/index.js",
+  "description": "HTML5 controls API",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/IIPI/2pi-player.git"
+    "url": "git+https://github.com/doublepi/video-player.git"
   },
+  "keywords": [
+    "html5",
+    "video",
+    "controls",
+    "player",
+    "video"
+  ],
   "author": "Giulian Drimba",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/IIPI/2pi-player/issues"
+    "url": "https://github.com/doublepi/video-player/issues"
   },
-  "homepage": "https://github.com/IIPI/2pi-player"
+  "homepage": "https://github.com/doublepi/video-player#readme"
 }
